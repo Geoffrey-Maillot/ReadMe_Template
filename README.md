@@ -74,7 +74,7 @@ To run this project, you will need to add the following environment variables to
   
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/Geoffrey-Maillot)
+- [@GeoffreyMaillot](https://www.github.com/Geoffrey-Maillot)
 
   
 ## 🔗 Links
