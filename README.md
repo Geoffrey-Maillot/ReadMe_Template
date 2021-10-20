@@ -15,7 +15,9 @@ A brief description of what this project does and who it's for
 
 **Server:** Node, Express
 
-  
+**BDD:** PostgreSQL
+
+
 ## Lessons Learned
 
 What did you learn while building this project? What challenges did you face and how did you overcome them?
@@ -44,7 +46,7 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  npm run develop
 ```
 
   
@@ -53,7 +55,7 @@ Start the server
 To deploy this project run
 
 ```bash
-  npm run deploy
+  npm run build
 ```
 
   
@@ -68,17 +70,13 @@ To run this project, you will need to add the following environment variables to
   
 ## Demo
 
-Insert gif or link to demo
-
+- [Demo](https://www.google.com)
   
 ## Authors
 
-- [@katherinepeterson](https://www.github.com/octokatherine)
+- [@katherinepeterson](https://www.github.com/Geoffrey-Maillot)
 
   
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-  
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://maillot-geoffrey-portfolio.xyz/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/geoffrey-maillot-06a1411bb/)
